@@ -1,0 +1,11 @@
+C:\Users\grf\source\repos\Catalog\Catalog\obj\Debug\netcoreapp2.0\Catalog.csprojAssemblyReference.cache
+C:\Users\grf\source\repos\Catalog\Catalog\obj\Debug\netcoreapp2.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\grf\source\repos\Catalog\Catalog\obj\Debug\netcoreapp2.0\Catalog.AssemblyInfoInputs.cache
+C:\Users\grf\source\repos\Catalog\Catalog\obj\Debug\netcoreapp2.0\Catalog.AssemblyInfo.cs
+C:\Users\grf\source\repos\Catalog\Catalog\bin\Debug\netcoreapp2.0\Catalog.deps.json
+C:\Users\grf\source\repos\Catalog\Catalog\bin\Debug\netcoreapp2.0\Catalog.runtimeconfig.json
+C:\Users\grf\source\repos\Catalog\Catalog\bin\Debug\netcoreapp2.0\Catalog.runtimeconfig.dev.json
+C:\Users\grf\source\repos\Catalog\Catalog\bin\Debug\netcoreapp2.0\Catalog.dll
+C:\Users\grf\source\repos\Catalog\Catalog\bin\Debug\netcoreapp2.0\Catalog.pdb
+C:\Users\grf\source\repos\Catalog\Catalog\obj\Debug\netcoreapp2.0\Catalog.dll
+C:\Users\grf\source\repos\Catalog\Catalog\obj\Debug\netcoreapp2.0\Catalog.pdb
